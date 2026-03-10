@@ -5,7 +5,7 @@
 This project demonstrates person detection using the YOLOv8 object detection model with OpenCV in Python. The program loads an image, detects people using a pretrained YOLOv8 model, and draws bounding boxes around detected persons along with the confidence score.
 This is a beginner-friendly computer vision project for learning object detection and bounding boxes.
 
-#🚀 Features
+##🚀 Features
 
 Detect persons in an image
 
